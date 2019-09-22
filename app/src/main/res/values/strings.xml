@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TodoListAppKotlin</string>
+    <string name="end_date">End Date</string>
+</resources>
